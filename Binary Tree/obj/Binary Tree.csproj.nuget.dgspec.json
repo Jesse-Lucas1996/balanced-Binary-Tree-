@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Diploma of Software Development\\Programming III\\ACT 2\\Binary Tree\\Binary Tree\\Binary Tree.csproj": {}
+  },
+  "projects": {
+    "E:\\Diploma of Software Development\\Programming III\\ACT 2\\Binary Tree\\Binary Tree\\Binary Tree.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Diploma of Software Development\\Programming III\\ACT 2\\Binary Tree\\Binary Tree\\Binary Tree.csproj",
+        "projectName": "Binary Tree",
+        "projectPath": "E:\\Diploma of Software Development\\Programming III\\ACT 2\\Binary Tree\\Binary Tree\\Binary Tree.csproj",
+        "packagesPath": "C:\\Users\\P274063\\.nuget\\packages\\",
+        "outputPath": "E:\\Diploma of Software Development\\Programming III\\ACT 2\\Binary Tree\\Binary Tree\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\P274063\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "DiagramDesigner": {
+              "target": "Package",
+              "version": "[2.0.7, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}

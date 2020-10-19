@@ -1,0 +1,34 @@
+C:\Users\P274063\source\repos\Binary Tree\Binary Tree\bin\Debug\netcoreapp2.2\Binary Tree.deps.json
+C:\Users\P274063\source\repos\Binary Tree\Binary Tree\bin\Debug\netcoreapp2.2\Binary Tree.runtimeconfig.json
+C:\Users\P274063\source\repos\Binary Tree\Binary Tree\bin\Debug\netcoreapp2.2\Binary Tree.runtimeconfig.dev.json
+C:\Users\P274063\source\repos\Binary Tree\Binary Tree\bin\Debug\netcoreapp2.2\Binary Tree.dll
+C:\Users\P274063\source\repos\Binary Tree\Binary Tree\bin\Debug\netcoreapp2.2\Binary Tree.pdb
+C:\Users\P274063\source\repos\Binary Tree\Binary Tree\obj\Debug\netcoreapp2.2\Binary Tree.csprojAssemblyReference.cache
+C:\Users\P274063\source\repos\Binary Tree\Binary Tree\obj\Debug\netcoreapp2.2\Binary Tree.csproj.CoreCompileInputs.cache
+C:\Users\P274063\source\repos\Binary Tree\Binary Tree\obj\Debug\netcoreapp2.2\Binary Tree.AssemblyInfoInputs.cache
+C:\Users\P274063\source\repos\Binary Tree\Binary Tree\obj\Debug\netcoreapp2.2\Binary Tree.AssemblyInfo.cs
+C:\Users\P274063\source\repos\Binary Tree\Binary Tree\obj\Debug\netcoreapp2.2\Binary Tree.dll
+C:\Users\P274063\source\repos\Binary Tree\Binary Tree\obj\Debug\netcoreapp2.2\Binary Tree.pdb
+E:\Diploma of Software Development\Programming III\ACT 2\Binary Tree\Binary Tree\obj\Debug\netcoreapp2.2\Binary Tree.csprojAssemblyReference.cache
+E:\Diploma of Software Development\Programming III\ACT 2\Binary Tree\Binary Tree\obj\Debug\netcoreapp2.2\Binary Tree.csproj.CoreCompileInputs.cache
+E:\Diploma of Software Development\Programming III\ACT 2\Binary Tree\Binary Tree\obj\Debug\netcoreapp2.2\Binary Tree.AssemblyInfoInputs.cache
+E:\Diploma of Software Development\Programming III\ACT 2\Binary Tree\Binary Tree\obj\Debug\netcoreapp2.2\Binary Tree.AssemblyInfo.cs
+E:\Diploma of Software Development\Programming III\ACT 2\Binary Tree\Binary Tree\obj\Debug\netcoreapp2.2\Binary Tree.dll
+E:\Diploma of Software Development\Programming III\ACT 2\Binary Tree\Binary Tree\obj\Debug\netcoreapp2.2\Binary Tree.pdb
+E:\Diploma of Software Development\Programming III\ACT 2\Binary Tree\Binary Tree\bin\Debug\netcoreapp2.2\Binary Tree.deps.json
+E:\Diploma of Software Development\Programming III\ACT 2\Binary Tree\Binary Tree\bin\Debug\netcoreapp2.2\Binary Tree.runtimeconfig.json
+E:\Diploma of Software Development\Programming III\ACT 2\Binary Tree\Binary Tree\bin\Debug\netcoreapp2.2\Binary Tree.runtimeconfig.dev.json
+E:\Diploma of Software Development\Programming III\ACT 2\Binary Tree\Binary Tree\bin\Debug\netcoreapp2.2\Binary Tree.dll
+E:\Diploma of Software Development\Programming III\ACT 2\Binary Tree\Binary Tree\bin\Debug\netcoreapp2.2\Binary Tree.pdb
+G:\Diploma of Software Development\Programming III\ACT 2\Binary Tree\Binary Tree\obj\Debug\netcoreapp2.2\Binary Tree.csprojAssemblyReference.cache
+G:\Diploma of Software Development\Programming III\ACT 2\Binary Tree\Binary Tree\obj\Debug\netcoreapp2.2\Binary Tree.AssemblyInfoInputs.cache
+G:\Diploma of Software Development\Programming III\ACT 2\Binary Tree\Binary Tree\obj\Debug\netcoreapp2.2\Binary Tree.AssemblyInfo.cs
+G:\Diploma of Software Development\Programming III\ACT 2\Binary Tree\Binary Tree\obj\Debug\netcoreapp2.2\Binary Tree.csproj.CoreCompileInputs.cache
+G:\Diploma of Software Development\Programming III\ACT 2\Binary Tree\Binary Tree\obj\Debug\netcoreapp2.2\Binary Tree.dll
+G:\Diploma of Software Development\Programming III\ACT 2\Binary Tree\Binary Tree\obj\Debug\netcoreapp2.2\Binary Tree.pdb
+G:\Diploma of Software Development\Programming III\ACT 2\Binary Tree\Binary Tree\bin\Debug\netcoreapp2.2\Binary Tree.deps.json
+G:\Diploma of Software Development\Programming III\ACT 2\Binary Tree\Binary Tree\bin\Debug\netcoreapp2.2\Binary Tree.runtimeconfig.json
+G:\Diploma of Software Development\Programming III\ACT 2\Binary Tree\Binary Tree\bin\Debug\netcoreapp2.2\Binary Tree.runtimeconfig.dev.json
+G:\Diploma of Software Development\Programming III\ACT 2\Binary Tree\Binary Tree\bin\Debug\netcoreapp2.2\Binary Tree.dll
+G:\Diploma of Software Development\Programming III\ACT 2\Binary Tree\Binary Tree\bin\Debug\netcoreapp2.2\Binary Tree.pdb
+G:\Diploma of Software Development\Programming III\ACT 2\Binary Tree\Binary Tree\obj\Debug\netcoreapp2.2\Binary Tree.genruntimeconfig.cache
